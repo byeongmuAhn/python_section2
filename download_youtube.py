@@ -1,6 +1,12 @@
 from moviepy.editor import *
 import pytube
 import os.path
+
+
+
+
+
+
 # 다운로드 받을 파일 경로
 path = 'C:\\workspace\section2\imagedown\\'
 def download_mp3(link):
